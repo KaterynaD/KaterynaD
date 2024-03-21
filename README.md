@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kate
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning NLP Transformers
 - 📫 How to reach me drogaieva@gmail.com
 
 <!---
