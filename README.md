@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kate
+- My projects: https://katerynad.github.io/
 - 👀 I’m interested in Data Science and Machine Learning
 - 📫 How to reach me drogaieva@gmail.com
 
